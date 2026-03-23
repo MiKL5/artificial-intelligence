@@ -72,8 +72,8 @@
 
 ### **🔁 Réseaux de Neurones Récurrents**
 
-[Définition](rnn)
-[Les LSTM](rnn/LSTM)
+[Définition](rnn)  
+[Les LSTM](rnn/LSTM)  
 [Les GRU](rnn/GRU)
 
 ### **🔗 Réseaux de neurones séquence à séquence**
