@@ -1,4 +1,4 @@
-# Le Dictionary Learning <a href="../../../"><img src="../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
+# **Le Dictionary Learning**<a href="../../../"><img src="../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 ![dictionary_learning_decomposition](dictionary_learning_decomposition.svg)
 ## Définition
 Le **Dictionary Learning** (apprentissage de dictionnaire) est une méthode d'apprentissage de représentations qui vise à décomposer un ensemble de signaux en **combinaisons linéaires parcimonieuses** (*sparse*) d'éléments de base appelés **atomes**, regroupés dans un **dictionnaire** D appris directement à partir des données.
@@ -140,6 +140,5 @@ Avec l'avènement du Deep Learning (2012–), le Dictionary Learning a perdu sa 
 5. [Mairal, J., Bach, F., Ponce, J. & Sapiro, G. (2010). *Online learning for matrix factorization and sparse coding*. **Journal of Machine Learning Research**, 11, 19–60](https://jmlr.org/papers/v11/mairal10a.html).
 6. Elad, M. (2010). *Sparse and Redundant Representations: From Theory to Applications in Signal and Image Processing*. Springer. ISBN 978-1-4419-7010-7.
 7. [Wright, J., Yang, A.Y., Ganesh, A., Sastry, S.S. & Ma, Y. (2009). *Robust face recognition via sparse representation*. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 31(2), 210–227](https://doi.org/10.1109/TPAMI.2008.79).
-
 ___
 [← Retour](../../../)
