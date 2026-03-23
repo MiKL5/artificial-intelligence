@@ -1,5 +1,12 @@
 # **L'algorithme de clustering**<a href="../../../"><img src="../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
+<iframe
+    src="clustering_interactive_demo.html"
+    width="auto"
+    height="auto"
+    title="Démostration des k plus proches voisins"
+></iframe>
+
 Le **clustering** (ou *partitionnement de données*, *classification non supervisée*) désigne la famille des méthodes qui regroupent automatiquement un ensemble de points en **sous-ensembles homogènes** (clusters) sans étiquettes préalables. L'objectif est que les points d'un même cluster soient plus similaires entre eux qu'à ceux des autres clusters, selon une métrique définie.
 
 Formellement, étant donné un ensemble $X = {x₁, …, xₙ} ⊂ ℝᵈ$, on cherche une partition $C = {C₁, …, Cₖ}$ de $X$ telle qu'une fonction de critère $J(C)$ soit minimisée (ou maximisée selon la formulation).
