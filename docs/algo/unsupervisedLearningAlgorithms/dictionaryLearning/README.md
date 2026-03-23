@@ -1,4 +1,4 @@
-# Le Dictionary Learning <a href="https://github.com/MiKL5/"><img src="../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
+# Le Dictionary Learning <a href="../../../"><img src="../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 ![dictionary_learning_decomposition](dictionary_learning_decomposition.svg)
 ## Définition
 Le **Dictionary Learning** (apprentissage de dictionnaire) est une méthode d'apprentissage de représentations qui vise à décomposer un ensemble de signaux en **combinaisons linéaires parcimonieuses** (*sparse*) d'éléments de base appelés **atomes**, regroupés dans un **dictionnaire** D appris directement à partir des données.
