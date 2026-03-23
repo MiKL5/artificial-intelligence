@@ -24,3 +24,5 @@ $$(I * K)(i, j) = \sum_{m} \sum_{n} I(i + m, j + n) \cdot K(m, n)$$
     > *L'ouvrage de référence synthétisant les bases mathématiques et algorithmiques des réseaux de neurones.*
 >4.  **He, K., Zhang, X., Ren, S., & Sun, J. (2016).** *Deep Residual Learning for Image Recognition.* CVPR. 
     > *L'introduction des connexions résiduelles (ResNets), permettant l'entraînement de réseaux dépassant les 100 couches de profondeur.*
+___
+[← Retour](../../)

@@ -142,5 +142,4 @@ Avec l'avènement du Deep Learning (2012–), le Dictionary Learning a perdu sa 
 7. [Wright, J., Yang, A.Y., Ganesh, A., Sastry, S.S. & Ma, Y. (2009). *Robust face recognition via sparse representation*. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 31(2), 210–227](https://doi.org/10.1109/TPAMI.2008.79).
 
 ___
-
-[Retour](../)
+[← Retour](../../../)
