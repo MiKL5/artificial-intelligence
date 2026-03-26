@@ -1,7 +1,7 @@
 # Introduction à la Représentation Parcimonieuse et aux Dictionnaires<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
 <!-- > Les fondations conceptuelles et mathématiques pour aborder sereinement l'apprentissage de dictionnaire. -->
-> Ce document constitue le **préalable naturel** au [comparatif](../dlVsOdl/).
+> Ce document constitue le **préalable naturel** au [comparatif](../dlVsOdl).
 
 ___
 
@@ -136,10 +136,10 @@ Lorsque l'on souhaite contrôler *directement* le nombre $s$ de coefficients non
 MP(x, D, s)
 ───────────
 r_0 ← x                               # résidu initial
-S ← ∅                                  # support actif
+S ← ∅                                 # support actif
 
 Pour t = 1 à s :
-    k* ← arg max_k |⟨r_{t-1}, d_k⟩|  # atome le plus corrélé
+    k* ← arg max_k |⟨r_{t-1}, d_k⟩|   # atome le plus corrélé
     S ← S ∪ {k*}
     α_{k*} ← α_{k*} + ⟨r_{t-1}, d_k*⟩
     r_t ← r_{t-1} - ⟨r_{t-1}, d_k*⟩ · d_k*
@@ -226,7 +226,7 @@ L'idée est de **laisser les données dicter la forme des atomes**. Si l'on disp
 * Les atomes reflètent les **structures récurrentes** des données (Olshausen & Field, 1996, ont montré que des atomes appris sur des images naturelles ressemblent aux champs récepteurs des cellules simples du cortex visuel V1 — des barres orientées et localisées, semblables aux ondelettes de Gabor, mais *émergentes* plutôt qu'imposées).
 * Performances supérieures en débruitage, restauration, et classification sur des corpus spécialisés.
 
-**Coût** : il faut résoudre un problème d'optimisation non convexe sur l'ensemble des données — c'est précisément le sujet du [README comparatif](./README.md).
+**Coût** : il faut résoudre un problème d'optimisation non convexe sur l'ensemble des données — c'est précisément le sujet du [README comparatif](../dlVsOdl).
 
 ```
 Comparaison schématique de la qualité de représentation
@@ -275,7 +275,7 @@ Deux familles d'algorithmes répondent à cette interrogation de façon radicale
 - **L'approche par lots** (*batch*) — K-SVD, MOD : l'intégralité du corpus est nécessaire à chaque révision du dictionnaire.
 - **L'approche en ligne** (*online*) — Mairal et al., 2009 : le dictionnaire évolue au fil des observations, sans jamais recharger le corpus complet.
 
-→ **[Lire le README comparatif pour la suite →](./README.md)**
+→ **[Lire le comparatif pour la suite →](../dlVsOdl)**
 
 ___
 
@@ -288,7 +288,3 @@ ___
 > * **Candès, E. & Tao, T.** (2005). *Decoding by Linear Programming*. IEEE TIT. — Introduction de la RIP.
 > * **Beck, A. & Teboulle, M.** (2009). *A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems*. SIAM J. Imaging Sci. — FISTA.
 > * **Elad, M.** (2010). *Sparse and Redundant Representations*. Springer. — Ouvrage de référence complet sur le sujet.
-
-___
-
-*Lire ce document de bout en bout prend environ 25 minutes. Il constitue le socle conceptuel indispensable pour aborder les algorithmes d'apprentissage de dictionnaire sans zone d'ombre.*
