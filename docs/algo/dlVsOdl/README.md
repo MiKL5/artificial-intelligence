@@ -1,6 +1,6 @@
 # Apprentissage de Dictionnaire vs Apprentissage de Dictionnaire en Ligne<a href="../../"><img src="../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
-## Table des matières
+## Sommaire
 
 1. [Le problème fondamental](#1-le-problème-fondamental)
 2. [Apprentissage de dictionnaire classique (batch)](#2-apprentissage-de-dictionnaire-classique-batch)
