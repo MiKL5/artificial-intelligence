@@ -115,7 +115,8 @@
 
 [L'algorithme des KNN](algo/unsupervisedLearningAlgorithms/KNN)  
 [L'algorithme de clustering](algo/unsupervisedLearningAlgorithms/clustering)  
-[Le Dictionary Learning](algo/unsupervisedLearningAlgorithms/dictionaryLearning)
+[Le Dictionary Learning](algo/unsupervisedLearningAlgorithms/dictionaryLearning)  
+[La différence entre le dictionary lerning et l'online dicionary learning](algo/dlVsOdl)
 
 ### **🎮 Alogrithmes d'apprentissage par renforcement**
 
