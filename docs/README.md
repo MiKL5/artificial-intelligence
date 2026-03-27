@@ -113,7 +113,7 @@
 
 ### **🛠️ Algorithmes d'apprentissage non supervisés**
 
-[L'algorithme des KNN](algo/unsupervisedLearningAlgorithms/KNN)  
+[L'algorithme des KNN](algo/unsupervisedLearningAlgorithms/knn)  
 [L'algorithme de clustering](algo/unsupervisedLearningAlgorithms/clustering)  
 [Introduction aux dictionnaires](algo/introDl)  
 [La différence entre le dictionary lerning et l'online dicionary learning](algo/dlVsOdl)
