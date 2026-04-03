@@ -37,6 +37,39 @@
 
 [Le data mining](other/dataMining)
 
+<!-- ## **🔢 Fondations mathématiques** -->
+
+<!-- ### **📐 Algèbre linéaire** -->
+
+<!-- [Vecteurs, matrices et opérations fondamentales](math/linearAlgebra/basics)   -->
+<!-- [Espaces vectoriels et sous-espaces](math/linearAlgebra/vectorSpaces)   -->
+<!-- [Valeurs propres et vecteurs propres](math/linearAlgebra/eigenvalues)   -->
+<!-- [Décomposition en valeurs singulières (SVD)](math/linearAlgebra/svd)   -->
+<!-- [Analyse en composantes principales (PCA)](math/linearAlgebra/pca)   -->
+<!-- [Tenseurs et opérations tensorielles](math/linearAlgebra/tensors) -->
+
+<!-- ### **∂ Calcul différentiel et optimisation** -->
+
+<!-- [Dérivées partielles et gradient](math/calculus/gradient)   -->
+<!-- [Jacobien et hessien](math/calculus/jacobianHessian)   -->
+<!-- [Règle de la chaîne et son rôle dans la rétropropagation](math/calculus/chainRule)   -->
+<!-- [Optimisation convexe et non convexe](math/calculus/convexOptimization) -->
+
+<!-- ### **🎲 Probabilités et statistiques** -->
+
+<!-- [Variables aléatoires et distributions](math/stats/distributions)   -->
+<!-- [Théorème de Bayes et inférence bayésienne](math/stats/bayes)   -->
+<!-- [Maximum de vraisemblance (MLE) et MAP](math/stats/mle)   -->
+<!-- [Estimateurs, biais et variance](math/stats/estimators)   -->
+<!-- [Loi des grands nombres et théorème central limite](math/stats/clt) -->
+
+<!-- ### **🔡 Théorie de l'information** -->
+
+<!-- [Entropie de Shannon](math/information/entropy)   -->
+<!-- [Divergence de Kullback-Leibler (KL)](math/information/kl)   -->
+<!-- [Information mutuelle](math/information/mutualInformation)   -->
+<!-- [Entropie croisée et son lien avec les fonctions de perte](math/information/crossEntropy) -->
+
 ## **🤖 Machine Learning**
 
 [Définition](machineLearning/definition)  
