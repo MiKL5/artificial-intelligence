@@ -1,23 +1,23 @@
 # **L'algorithme des KNN**<a href="../../../"><img src="../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 
-> *« Tell me who your neighbors are, and I'll tell you who you are. »*  
-> — Principe fondateur de l'apprentissage par analogie
+>>>>> *« Tell me who your neighbors are, and I'll tell you who you are. »*  
+>>>>> — Principe fondateur de l'apprentissage par analogie
 ---
 
 ## Table des matières
 
 1. [Vue d'ensemble](#1-vue-densemble)
 2. [Fondements mathématiques](#2-fondements-mathématiques)
-   - 2.1 [Métriques de distance](#21-métriques-de-distance)
-   - 2.2 [Règle de décision](#22-règle-de-décision)
-   - 2.3 [Analyse de la convergence — Théorème de Cover & Hart](#23-analyse-de-la-convergence--théorème-de-cover--hart)
+   * 2.1 [Métriques de distance](#21-métriques-de-distance)
+   * 2.2 [Règle de décision](#22-règle-de-décision)
+   * 2.3 [Analyse de la convergence — Théorème de Cover & Hart](#23-analyse-de-la-convergence--théorème-de-cover--hart)
 3. [Complexité algorithmique](#3-complexité-algorithmique)
 4. [Le choix de *k* — Biais-Variance](#4-le-choix-de-k--biais-variance)
 5. [Problématiques dimensionnelles — La Malédiction de la Dimensionnalité](#5-problématiques-dimensionnelles--la-malédiction-de-la-dimensionnalité)
 6. [Structures de données et optimisation](#6-structures-de-données-et-optimisation)
-   - 6.1 [KD-Tree](#61-kd-tree)
-   - 6.2 [Ball-Tree](#62-ball-tree)
-   - 6.3 [Locality-Sensitive Hashing (LSH)](#63-locality-sensitive-hashing-lsh)
+   * 6.1 [KD-Tree](#61-kd-tree)
+   * 6.2 [Ball-Tree](#62-ball-tree)
+   * 6.3 [Locality-Sensitive Hashing (LSH)](#63-locality-sensitive-hashing-lsh)
 7. [Variantes et extensions](#7-variantes-et-extensions)
 8. [Implémentation Python](#8-implémentation-python)
 9. [Hyperparamètres & Tuning](#9-hyperparamètres--tuning)
