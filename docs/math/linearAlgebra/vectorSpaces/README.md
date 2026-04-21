@@ -10,7 +10,6 @@ Pour que $E$ soit qualifié d'espace vectoriel, il doit satisfaire une octologie
 5. **Unitarité** : $1_{\\mathbb{K}} \\cdot \\mathbf{u} = \\mathbf{u}$.
 ## 2. Les Sous-Espaces Vectoriels (SEV)
 Un sous-espace vectoriel $F$ est une partie de $E$ qui hérite de sa structure. Pour éviter une vérification fastidieuse des huit axiomes, on utilise le **critère de stabilité linéaire**.
-
 ### Critères de Caractérisation
 Une partie non vide $F \\subset E$ est un sous-espace vectoriel si et seulement si elle est stable par combinaison linéaire :
 $$\\forall (\\alpha, \\beta) \\in \\mathbb{K}^2, \\forall (\\mathbf{u}, \\mathbf{v}) \\in F^2, (\\alpha\\mathbf{u} + \\beta\\mathbf{v}) \\in F$$
