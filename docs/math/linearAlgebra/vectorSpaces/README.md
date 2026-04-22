@@ -1,4 +1,4 @@
-# **Espaces vectoriels et sous-espaces**
+# **Espaces vectoriels et sous-espaces**<a href="../../../"><img src="../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 ## 1. Ontologie de l'Espace Vectoriel
 Un **espace vectoriel** (ou espace linéaire) sur un corps commutatif $\\mathbb{K}$ (typiquement $\\mathbb{R}$ ou $\\mathbb{C}$) est une structure algébrique $(E, +, \\cdot)$ d'une complexité élégante. Il ne s'agit point d'un simple agrégat d'objets, mais d'un ensemble muni d'une loi de composition interne (l'addition vectorielle) et d'une loi de composition externe (la multiplication par un scalaire).
 ### Axiomatique Fondamentale
