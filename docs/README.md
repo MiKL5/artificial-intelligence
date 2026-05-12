@@ -1,7 +1,9 @@
 <h1 align="center"><b>L'intelligence artificielle</b><a href="https://github.com/MiKL5/artificial-intelligence"><img src="../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a></h1>
-<div align="center"><a href="https://github.com/MiKL5/artificial-intelligence"><img src="../assets/images/vhgIpUjIEKb8lk432cqh-kfUys.png"></a></div>
+<!-- <div align="center"><a href="https://github.com/MiKL5/artificial-intelligence"><img src="../assets/images/vhgIpUjIEKb8lk432cqh-kfUys.png"></a></div> -->
 
 ## **🧭 Fondations de l'IA**
+
+<div align="center"><a href="#-fondations-de-lia"><img src="../assets/images/conceptMap.webp"height="256"></a></div>
 
 [Différencier l'algorithme simple de celui d'une intelligence artificielle](basics/aiOrNotAi)  
 [Définition](basics/define)  
@@ -16,8 +18,6 @@
 [La quatrième vague](basics/waves/4)  
 [Quelques concepts de base](basics/basicConcepts)  
 [Taxonomie de l'IA](basics/taxonomy)  
-
-<div align="center"><a href="#-fondations-de-lia"><img src="../assets/images/conceptMap.webp"height="256"></a></div>
 
 ### **🏗️ Types d'IA**
 
