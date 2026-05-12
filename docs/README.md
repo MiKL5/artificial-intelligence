@@ -1,5 +1,5 @@
 <h1 align="center"><b>L'intelligence artificielle</b><a href="https://github.com/MiKL5/artificial-intelligence"><img src="../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a></h1>
-<div align="center"><a href="../"><img src="../assets/images/vhgIpUjIEKb8lk432cqh-kfUys.png"></a></div>
+<div align="center"><a href="https://github.com/MiKL5/artificial-intelligence"><img src="../assets/images/vhgIpUjIEKb8lk432cqh-kfUys.png"></a></div>
 
 ## **🧭 Fondations de l'IA**
 
@@ -17,7 +17,7 @@
 [Quelques concepts de base](basics/basicConcepts)  
 [Taxonomie de l'IA](basics/taxonomy)  
 
-<div align="center"><a href="../"><img src="../assets/images/conceptMap.webp"height="256"></a></div>
+<div align="center"><a href="#-fondations-de-lia"><img src="../assets/images/conceptMap.webp"height="256"></a></div>
 
 ### **🏗️ Types d'IA**
 
@@ -72,7 +72,7 @@
 <!-- [Information mutuelle](math/information/mutualInformation)   -->
 <!-- [Entropie croisée et son lien avec les fonctions de perte](math/information/crossEntropy) -->
 
-<div align="center"><a href="../"><img src="../assets/images/ml.webp"height="256"></a></div>
+<div align="center"><a href="#-machine-learning"><img src="../assets/images/ml.webp"height="256"></a></div>
 
 ## **🤖 Machine Learning**
 
@@ -92,11 +92,11 @@
 [Comment fonctionnent les ANNs](artificialNeuralNetwork/HowANNswork)  
 [Comment apprennent les ANNs](artificialNeuralNetwork/HowANNsLearn)  
 
-### **⚡ Algorithmes d'apprentissage**
+<!--### **⚡ Algorithmes d'apprentissage**
 
 [L'algorithme du Gradient](artificialNeuralNetwork/gradientAlgorithm)  
 [L'algorithme du Gradient Stochastique](artificialNeuralNetwork/stochasticGradientAlgorithm)  
-[La rétropropagation](artificialNeuralNetwork/Retropropagation)
+[La rétropropagation](artificialNeuralNetwork/Retropropagation)-->
 
 ## **🧠🌀 Réseau de neurones à convolution**
 [Définition](cnn) 
@@ -118,7 +118,7 @@
 [Définition](seq2Seq)  
 [Les réseaux de neurones transformers](seq2Seq/transformers)  
 
-<div align="center"><a href="../"><img src="../assets/images/agent.webp"height="256"></a></div>
+<div align="center"><a href="#-deep-learning"><img src="../assets/images/agent.webp"height="256"></a></div>
 
 ## **🌊 Deep Learning**
 
@@ -148,9 +148,15 @@
 [La différence temporelle](timeDifference)  
 [Le Q-Learning visualisation](q-learningVisualisation)  
 
-<div align="center"><a href="../"><img src="../assets/images/stylizedLatentDiffusion.webp"height="256"></a></div>
+<div align="center"><a href="#-algorithmes-dapprentissage"><img src="../assets/images/stylizedLatentDiffusion.webp"height="256"></a></div>
 
 ## **⚙️ Algorithmes**
+
+### **⚡ Algorithmes d'apprentissage**
+
+[L'algorithme du Gradient](artificialNeuralNetwork/gradientAlgorithm)  
+[L'algorithme du Gradient Stochastique](artificialNeuralNetwork/stochasticGradientAlgorithm)  
+[La rétropropagation](artificialNeuralNetwork/Retropropagation)
 
 ### **🛠️ Algorithmes d'apprentissage non supervisés**
 
@@ -204,7 +210,7 @@
 
 ___
 
-<div align="center"><a href="../"><img src="../assets/images/ethic.webp"height="256"></a></div>
+<div align="center"><a href="#️-éthique-et-responsabilité"><img src="../assets/images/ethic.webp"height="256"></a></div>
 
 ## **⚖️ Éthique et responsabilité**
 
@@ -251,7 +257,7 @@ ___
 [Les métiers de l'IA](jobs/AI)
 [Les métiers transverses](jobs/cross)
 
-<div align="center"><a href="../"><img src="../assets/images/80315D2A195DC0DEDD502D66B4F9354D.png" alt="L'intelligence artificielle" height="300px"></a></div>
+<div align="center"><a href="#-métiers-outils-et-pratique"><img src="../assets/images/80315D2A195DC0DEDD502D66B4F9354D.png" alt="L'intelligence artificielle" height="300px"></a></div>
 
 ___
 
@@ -271,4 +277,4 @@ ___
 🖋️ [Le copywriting](other/c)  
 📋 [Le Quality monitoring](other/qualityMonitoring) 
 
-<br><div align="center"><a href="../"><img src="../assets/images/8roaO7a6qzOS6wM0xdhX-C5-MT.jpg" alt="L'intelligence artificielle" height="300px"></a></div>
+<!-- <br><div align="center"><a href="https://github.com/MiKL5/artificial-intelligence"><img src="../assets/images/8roaO7a6qzOS6wM0xdhX-C5-MT.jpg" alt="L'intelligence artificielle" height="300px"></a></div> -->
