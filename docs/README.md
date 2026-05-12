@@ -17,6 +17,8 @@
 [Quelques concepts de base](basics/basicConcepts)  
 [Taxonomie de l'IA](basics/taxonomy)  
 
+<div align="center"><a href="../"><img src="../assets/images/conceptMap.webp"height="256"></a></div>
+
 ### **🏗️ Types d'IA**
 
 [L'IA symbolique](basics/sai)  
@@ -70,6 +72,8 @@
 <!-- [Information mutuelle](math/information/mutualInformation)   -->
 <!-- [Entropie croisée et son lien avec les fonctions de perte](math/information/crossEntropy) -->
 
+<div align="center"><a href="../"><img src="../assets/images/ml.webp"height="256"></a></div>
+
 ## **🤖 Machine Learning**
 
 [Définition](machineLearning/definition)  
@@ -114,6 +118,8 @@
 [Définition](seq2Seq)  
 [Les réseaux de neurones transformers](seq2Seq/transformers)  
 
+<div align="center"><a href="../"><img src="../assets/images/agent.webp"height="256"></a></div>
+
 ## **🌊 Deep Learning**
 
 ### **🎯 Deep Q-Learning**
@@ -141,6 +147,8 @@
 [Intuition](q-learningIntuition)  
 [La différence temporelle](timeDifference)  
 [Le Q-Learning visualisation](q-learningVisualisation)  
+
+<div align="center"><a href="../"><img src="../assets/images/stylizedLatentDiffusion.webp"height="256"></a></div>
 
 ## **⚙️ Algorithmes**
 
@@ -195,6 +203,8 @@
 [Confabulation (hallucination)](generativeAI/confabulation)
 
 ___
+
+<div align="center"><a href="../"><img src="../assets/images/ethic.webp"height="256"></a></div>
 
 ## **⚖️ Éthique et responsabilité**
 
