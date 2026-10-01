@@ -163,10 +163,10 @@
 [L'algorithme des KNN](algo/unsupervisedLearningAlgorithms/knn)  
 [L'algorithme de clustering](algo/unsupervisedLearningAlgorithms/clustering)  
 [Introduction aux dictionnaires](algo/introDl)  
-[La différence entre le dictionary lerning et l'online dicionary learning](algo/dlVsOdl)
+[La différence entre le dictionary lerning et l'online dictionary learning](algo/dlVsOdl)
 <!-- [Le Dictionary Learning](algo/unsupervisedLearningAlgorithms/dictionaryLearning) -->
 
-### **🎮 Alogrithmes d'apprentissage par renforcement**
+### **🎮 Alogorithmes d'apprentissage par renforcement**
 
 [L'échantillonage de Thompson](algo/reinforcement/thompsonSampling)
 
@@ -235,6 +235,7 @@ ___
 
 [L'effet Eliza](ethics/eliza)
 [L'argument de la chambre chinoise](ethics/chineseRoom)  
+<!-- [La paréidolie et l'IA](perception/pareidolie)   -->
 
 ### **📏 Mesurer l'intelligence et l'efficacité**
 
@@ -265,8 +266,8 @@ ___
 
 🗂️ [La gérance des données](other/dataStewarding)  
 ⚖️ [La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
-📊 [La Business Intelligence](other/bi)  
-🧩 [Taxonomie de la Business Intelligence](https://github.com/MiKL5/Business_Intelligence/tree/master/docs/taxonomy)  
+📊 [La business Intelligence](other/bi)  
+🧩 [Taxonomie de la business Intelligence](https://github.com/MiKL5/Business_Intelligence/tree/master/docs/taxonomy)  
 🧠 [Qu'est-ce qu'une base de données vectorielle ?](other/vectorDatabase)  
 🌐 [Le Big Data](other/bigData)  
 ✍️ [Le prompt engineering](other/promptEngineering)  
