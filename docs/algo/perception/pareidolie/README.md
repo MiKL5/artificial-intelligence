@@ -1,7 +1,7 @@
 # **La paréidolie et l'IA**<a href="../../../"><img src="../../../../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a>
 <h3 align="center">Voir des visages là où il n'y en a pas : les IA le font aussi ?</h3><h3>
 
-> **TL;DR.** Oui, les IA sont sujettes à la pareïdolie, mais de façon _fonctionnelle_ et _non phénoménale_. Elles classent « visage » des stimuli qui n'en contiennent pas, sans qu'on puisse démontrer la moindre expérience subjective.</h3><hr>
+> **TL;DR.** Oui, les IA sont sujettes à la pareïdolie, mais de façon _fonctionnelle_ et _non phénoménale_. Elles classent « visage » des stimuli qui n'en contiennent pas, sans qu'on puisse démontrer la moindre expérience subjective.<hr>
 
 <!-- > **Phrase pivot (à restituer à l'identique en examen)** : -->
 > _« Les modèles de vision artificiels présentent des signatures comportementales et représentationnelles de paréidolie partiellement comparables à celles mesurées chez l'humain, avec un écart significatif persistant ; attribuer à une IA une expérience subjective paréidolique n'est étayé par aucune preuve empirique actuelle. »_
@@ -10,7 +10,7 @@ La **paréidolie** est la tendance de la perception à imposer une interprétati
 La paréidolie est un sous-ensemble de l'**apophénie** (percevoir des liens significatifs entre choses sans relation<!--, [Wikipedia, "Apophenia"](https://en.wikipedia.org/wiki/Apophenia)-->).
 <!-- ## Pourquoi le cerveau humain en produit (à numéroter 2 si réactivé, puis renuméroter la suite)
 Le système de détection de visages est réglé « **large** » (*broadly tuned*) : c'est l'hypothèse de départ de [Gupta & Dobs, 2025](https://pubmed.ncbi.nlm.nih.gov/39869654/). Le **gyrus fusiforme** (FFA) répond sélectivement aux visages ([Kanwisher et al., 1997](https://www.jneurosci.org/content/17/11/4302)) ; [À SOURCER : réponse de la FFA aux visages paréidoliques — Kanwisher 1997 ne l'établit pas].
-**Argument évolutionnaire (hypothèse, non démontrée)** : manquer un visage réel (prédateur) coûterait plus cher que détecter un visage absent. Hamilton et al. (2024) l'évoquent dans leur introduction ; leurs données suggèrent seulement que la détection de visages animaux explique une partie de l'écart homme-machine. -->
+**Argument évolutionnaire (hypothèse, non démontrée)** : manquer un visage réel (prédateur) coûterait plus cher que détecter un visage absent. Hamilton et al. (2024) l'évoquent dans leur introduction ; leurs données suggèrent seulement que la détection de visages animaux explique une partie de l'écart homme-machine. --> </h3>
 ---
 ## **1. La preuve empirique avec les réseaux de neurones** <!--(à connaître absolument)-->
 **Étude de référence** : Gupta & Dobs, « Human-like face pareidolia emerges in deep neural networks optimized for face and object recognition », *PLOS Computational Biology* 21(1), e1012751, **27 janvier 2025** ([article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012751), [PubMed](https://pubmed.ncbi.nlm.nih.gov/39869654)).  
@@ -43,7 +43,7 @@ Phénomène | Stimulus | L'humain voit | Le modèle « voit » | Source
 ⚠️ **Attribution précise** : le concept d'exemple adversarial vient de Szegedy et al. ([arXiv 1312.6199, soumis le 21 déc. 2013](https://arxiv.org/abs/1312.6199)) ; la méthode FGSM et l'expérience panda→gibbon à 99,3 % sont de **Goodfellow, Shlens & Szegedy (2014 ; ICLR 2015)** — ne les confondez pas. Les « fooling images » (images inreconnaissables classées avec confiance) viennent de Nguyen, Yosinski & Clune (CVPR 2015) ; le terme « fooling examples » et sa définition formelle (non reconnaissable par l'humain, reconnu par le modèle) sont proposés par Zhang, Chen & Qian (2023), qui y opposent l'adversarial example (reconnaissable par les deux, mal classé par le modèle).
 ## **3. Pareidolie, hallucination : tableau discriminant**
 
-<details><summary>Tableau discriminant</summary>
+<details open><summary>Tableau discriminant</summary>
 
 Critère | Pareidolie humaine | Pareidolie IA | Hallucination LLM
 ---|---|---|---
