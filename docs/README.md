@@ -235,7 +235,7 @@ ___
 
 [L'effet Eliza](ethics/eliza)
 [L'argument de la chambre chinoise](ethics/chineseRoom)  
-<!-- [La paréidolie et l'IA](perception/pareidolie)   -->
+[La paréidolie et l'IA](algo/perception/pareidolie)  
 
 ### **📏 Mesurer l'intelligence et l'efficacité**
 
