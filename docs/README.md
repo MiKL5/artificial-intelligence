@@ -208,11 +208,10 @@
 [Le fine-tuning](generativeAi/fineTuning)
 [Confabulation (hallucination)](generativeAI/confabulation)
 
-___
-
-<div align="center"><a href="#️-éthique-et-responsabilité"><img src="../assets/images/ethic.webp"height="256"></a></div>
 
 ## **⚖️ Éthique et responsabilité**
+
+<div align="center"><a href="#️-éthique-et-responsabilité"><img src="../assets/images/ethic.webp"height="256"></a></div>
 
 ### **🛡️ Principes et défis**
 
