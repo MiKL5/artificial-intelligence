@@ -1,9 +1,9 @@
 <h1 align="center"><b>L'intelligence artificielle</b><a href="https://github.com/MiKL5/artificial-intelligence"><img src="../assets/images/atomicAi.png" alt="L'intelligence artificielle" align="right" height="64px"></a></h1>
-<!-- <div align="center"><a href="https://github.com/MiKL5/artificial-intelligence"><img src="../assets/images/vhgIpUjIEKb8lk432cqh-kfUys.png"></a></div> -->
 
 ## **🧭 Fondations de l'IA**
 
-<div align="center"><a href="#-fondations-de-lia"><img src="../assets/images/conceptMap.webp"height="256"></a></div>
+<!-- <div align="center"><a href="#-fondations-de-lia"><img src="../assets/images/conceptMap.webp"height="256"></a></div> -->
+<div align="center"><a href="#-machine-learning"><img src="../assets/images/ml.webp"height="256"></a></div>
 
 [Différencier l'algorithme simple de celui d'une intelligence artificielle](basics/aiOrNotAi)  
 [Définition](basics/define)  
@@ -72,7 +72,7 @@
 <!-- [Information mutuelle](math/information/mutualInformation)   -->
 <!-- [Entropie croisée et son lien avec les fonctions de perte](math/information/crossEntropy) -->
 
-<div align="center"><a href="#-machine-learning"><img src="../assets/images/ml.webp"height="256"></a></div>
+<!-- <div align="center"><a href="#-machine-learning"><img src="../assets/images/ml.webp"height="256"></a></div> -->
 
 ## **🤖 Machine Learning**
 
@@ -118,7 +118,7 @@
 [Définition](seq2Seq)  
 [Les réseaux de neurones transformers](seq2Seq/transformers)  
 
-<div align="center"><a href="#-deep-learning"><img src="../assets/images/agent.webp"height="256"></a></div>
+<!-- <div align="center"><a href="#-deep-learning"><img src="../assets/images/agent.webp"height="256"></a></div> -->
 
 ## **🌊 Deep Learning**
 
@@ -148,7 +148,7 @@
 [La différence temporelle](timeDifference)  
 [Le Q-Learning visualisation](q-learningVisualisation)  
 
-<div align="center"><a href="#-algorithmes-dapprentissage"><img src="../assets/images/stylizedLatentDiffusion.webp"height="256"></a></div>
+<!-- <div align="center"><a href="#-algorithmes-dapprentissage"><img src="../assets/images/stylizedLatentDiffusion.webp"height="256"></a></div> -->
 
 ## **⚙️ Algorithmes**
 
