@@ -209,7 +209,7 @@
 [Confabulation (hallucination)](generativeAI/confabulation)
 <!-- ___ -->
 
-
+<!-- <div align="center"><a href="#️-bases-de-données-vectorielles"><img src="../assets/images/vectordb.webp"height="256"></a></div> -->
 
 <!-- ## **🧬 Bases de données vectorielles**
 ### **📐 Principes**
