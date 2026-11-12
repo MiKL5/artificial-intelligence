@@ -193,7 +193,7 @@
 [L'algorithme de Kahn](https://github.com/MiKL5/DataScience/tree/master/algo/Kahn)  
 [L'algorithme de Tarjan](https://github.com/MiKL5/DataScience/tree/master/algo/tarjan)  
 [L'algorithme de Bellman-Ford](https://github.com/MiKL5/DataScience/tree/master/algo/bF)  
-[L'algorithme de Kruskal](https://github.com/MiKL5/DataScience/tree/master/algo/kruskal)
+[L'algorithme de Kruskal](https://github.com/MiKL5/DataScience/tree/master/algo/kruskal)  
 [L'algorithme de Kahn vs l'algorithme de Tarjan](https://github.com/MiKL5/DataScience/tree/master/algo/tarjan)  
 
 <!-- [Algorithme de parcours versus algorithme de recherche](algo/pathVsSearch) -->
@@ -207,6 +207,31 @@
 [La fenêtre contextuelle](generativeAi/contextWindow)  
 [Le fine-tuning](generativeAi/fineTuning)
 [Confabulation (hallucination)](generativeAI/confabulation)
+<!-- ___ -->
+
+
+
+<!-- ## **🧬 Bases de données vectorielles**
+### **📐 Principes**
+[Qu'est-ce qu'une base de données vectorielle ?](other/vectorDatabase)   -->
+<!-- [Vecteurs, embeddings et dimensionnalité](vectorDatabase/embeddings)   -->
+<!-- [Métriques de similarité](vectorDatabase/metrics)   -->
+<!-- [Recherche exacte vs recherche approchée](vectorDatabase/exactVsAnn) -->
+<!-- ### **🗂️ Indexation**
+[Index Flat](vectorDatabase/index/flat)   -->
+<!-- [IVF](vectorDatabase/index/ivf)   -->
+<!-- [Quantification (SQ, PQ, binaire)](vectorDatabase/index/quantization)   -->
+<!-- [HNSW](vectorDatabase/index/hnsw)   -->
+<!-- [DiskANN et index sur disque](vectorDatabase/index/diskann)   -->
+<!-- [LSH](vectorDatabase/index/lsh) -->
+<!-- ### **🏗️ Architecture et usages**
+[Architecture d'un SGBD vectoriel](vectorDatabase/architecture)   -->
+<!-- [Filtrage par métadonnées](vectorDatabase/filtering)   -->
+<!-- [Recherche hybride et reranking](vectorDatabase/hybridSearch)   -->
+<!-- [Le RAG](generativeAi/rag)   -->
+<!-- [Écosystème et choix technologique](vectorDatabase/ecosystem)   -->
+<!-- [Exploitation : mise à jour, coût, montée en charge](vectorDatabase/operations)   -->
+<!-- [Évaluation : rappel, latence, mémoire](vectorDatabase/evaluation) -->
 
 
 ## **⚖️ Éthique et responsabilité**
