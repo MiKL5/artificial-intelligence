@@ -211,9 +211,9 @@
 
 <!-- <div align="center"><a href="#️-bases-de-données-vectorielles"><img src="../assets/images/vectordb.webp"height="256"></a></div> -->
 
-<!-- ## **🧬 Bases de données vectorielles**
+## **🧬 Bases de données vectorielles**
 ### **📐 Principes**
-[Qu'est-ce qu'une base de données vectorielle ?](other/vectorDatabase)   -->
+[Qu'est-ce qu'une base de données vectorielle ?](vectorDB/def)  
 <!-- [Vecteurs, embeddings et dimensionnalité](vectorDatabase/embeddings)   -->
 <!-- [Métriques de similarité](vectorDatabase/metrics)   -->
 <!-- [Recherche exacte vs recherche approchée](vectorDatabase/exactVsAnn) -->
