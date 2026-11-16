@@ -83,7 +83,7 @@ Souveraineté, auto-hébergement, pas de verrouillage ? | Milvus, Weaviate ou Qd
 Zéro exploitation ? | Serverless managé (vérifier le lieu d'hébergement et les transferts hors UE)
 Filtrage de métadonnées intensif ? | Tester la recherche hybride en conditions réelles
 Réversibilité ? | Conserver les données sources et le modèle d'embedding versionné
-## 8. 🧩 Conformité : RGPD et AI Act
+## 🧩 Conformité : RGPD et AI Act
 > Ces points sont des repères pédagogiques, pas un avis juridique. À valider avec un DPO ou un juriste.
 **RGPD (règlement (UE) 2016/679)**
 * Un embedding dérivé d'une donnée personnelle peut rester une **donnée personnelle** (art. 4.1), même s'il n'est pas lisible. Le risque de ré-identification ou d'inversion d'embedding doit être évalué.
@@ -99,7 +99,7 @@ Réversibilité ? | Conserver les données sources et le modèle d'embedding ver
 * Les obligations s'appliquent par étapes. Vérifiez le calendrier en vigueur, car des reports sont en discussion.
 
 **Autres points** : droit d'auteur et fouille de textes (directive (UE) 2019/790), secret des affaires, droit du travail si les données sont celles de salariés.
-## 9. 🧩 Sécurité, qualité, éco-conception
+## 🧩 Sécurité, qualité, éco-conception
 * **Contrôle d'accès** par document ou par locataire. Appliquez le filtre *avant* la restitution au LLM, pour éviter les fuites inter-utilisateurs.
 * **Injection de prompt indirecte** : un document malveillant indexé peut détourner le LLM. Isolez et assainissez les contenus.
 * **Empoisonnement des données** : contrôlez la provenance des documents ingérés.
